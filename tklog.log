@@ -1,0 +1,17 @@
+2024-06-05 19:07:36 [DEBUG] main.rs 9 >>> debug
+2024-06-05 19:07:36 [INFO] main.rs 10 >>> info
+2024-06-05 19:07:36 [WARN] main.rs 11 >>> warn
+2024-06-05 19:09:02 [DEBUG] main.rs 9 >>> debug
+2024-06-05 19:09:02 [INFO] main.rs 10 >>> info
+2024-06-05 19:09:02 [WARN] main.rs 11 >>> warn
+2024-06-05 19:09:46 [DEBUG] main.rs 10 >>> debug
+2024-06-05 19:10:00 [DEBUG] main.rs 10 >>> debug
+2024-06-05 19:10:06 [DEBUG] main.rs 10 >>> debug
+2024-06-05 19:10:06 [INFO] main.rs 11 >>> info
+2024-06-05 19:10:06 [WARN] main.rs 12 >>> warn
+2024-06-05 19:10:06 [ERROR] main.rs 13 >>> error
+2024-06-05 19:10:30  main.rs 10 >>> debug
+2024-06-05 19:10:39 [DEBUG] main.rs 10 >>> debug
+2024-06-05 19:10:39 [INFO] main.rs 11 >>> info
+2024-06-05 19:10:39 [WARN] main.rs 12 >>> warn
+2024-06-05 19:10:39 [ERROR] main.rs 13 >>> error
